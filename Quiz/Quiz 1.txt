@@ -1,0 +1,74 @@
+ID: 15
+
+Parte 1  Configuración e inicio (8 puntos): 
+- Clone mi repositorio al repositorio remoto:
+$ git clone https://github.com/GerardoTejada/Quiz-1.git
+
+-  (2 pts) Muestra la versión de Git instalada en tu computadora.
+git --versión
+
+git config --global user.name Gerardo
+
+- 2 pts) Configura tu correo electrónico en Git.
+git config --global user.email gerardo.tejada@utp.ac.pa
+
+- (2 pts) Clona el repositorio de GitHub a tu computadora.
+git clone https://github.com/GerardoTejada/Quiz-1.git
+
+Parte 2  Creación de ramas (8 puntos)
+- (2 pts) Crea una rama con tu primer nombre.
+git checkout -b Gerardo
+nano G.txt 
+git add .
+git commit -m "rama con mi primer nombre"
+git push origin Gerardo 
+
+- (2 pts) Crea una rama con tu segundo nombre.
+git checkout -b Dionisio
+nano D.txt
+git add .
+git commit -m "rama con mi segundo nombre"
+git push origin Dionisio
+
+- (2 pts) Crea una rama con tu primer apellido.
+git checkout -b Tejada
+nano T.txt
+git add .
+git commit -m "rama con mi primer apellido"
+git push origin Tejada
+
+- (2 pts) Cambia a la rama de tu primer nombre.
+git switch Gerardo
+
+
+- Parte 3: Primer ciclo de trabajo (32 puntos)
+(4 pts) Crea un archivo llamado universidad.txt y escribe en la primera línea el nombre de tu carrera.
+
+(cambios en la rama Gerardo)
+nano universidad.txt 
+
+(2 pts) Agrega el archivo universidad.txt al área de preparación.
+git add universidad.txt
+
+(16 pts) Haz commits múltiples en el archivo universidad.txt:
+(4 pts) Commit por agregar la carrera.
+git commit -m "nombre de la carrera"
+
+(4 pts) Commit por agregar la provincia.
+notepad universidad.txt
+git add .
+git commit -m "nombre de la provincia"
+
+(4 pts) Commit por agregar el distrito.
+notepad universidad.txt
+git add .
+git commit -m "nombre del distrito"
+
+(4 pts) Commit por agregar el barrio.
+notepad universidad.txt
+git add .
+git commit -m "nombre del barrio"
+
+
+https://github.com/GerardoTejada/Quiz-1.git
+

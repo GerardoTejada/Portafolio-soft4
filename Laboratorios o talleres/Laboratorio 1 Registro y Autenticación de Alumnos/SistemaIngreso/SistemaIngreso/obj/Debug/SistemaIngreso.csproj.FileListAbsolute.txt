@@ -1,0 +1,11 @@
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\bin\Debug\SistemaIngreso.exe.config
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\bin\Debug\SistemaIngreso.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\bin\Debug\SistemaIngreso.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.csproj.AssemblyReference.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.Form1.resources
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.Properties.Resources.resources
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.csproj.GenerateResource.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.csproj.CoreCompileInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\Calculadora\Proyecto-Calculadora-IA\IA\CHAT\SistemaIngreso\SistemaIngreso\obj\Debug\SistemaIngreso.exe.config
